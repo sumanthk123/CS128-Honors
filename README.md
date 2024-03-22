@@ -26,7 +26,7 @@ Develop a comprehensive dataset that captures the reasoning and decision-making 
 ## Technologies and Skills Required
 - **Machine Learning and NLP**: Knowledge of LLMs, QA systems, and natural language understanding.
 - **Data Annotation**: Experience in creating guidelines and annotating data for AI models.
-- **Software Development**: Proficiency in programming languages like Python or Rust, especially in data processing and visualization tool development.
+- **Software Development**: Proficiency in programming language Rust, especially in data processing and visualization tool development.
 - **Research and Analysis**: Ability to conduct systematic studies and analyze data for meaningful conclusions.
 
 This project aims to advance AI explainability, providing resources for the research community to enhance understanding and improvement of LLM decision-making processes.
