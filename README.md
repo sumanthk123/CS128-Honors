@@ -1,5 +1,4 @@
 # Explainability-Dataset-and-Analysis-Tool-for-Language-Models
-# Project: Explainability Dataset and Analysis Tool for Language Models
 
 ## Objective
 Develop a comprehensive dataset that captures the reasoning and decision-making process of large language models (LLMs) in question-answering (QA) tasks, along with a tool to analyze and visualize the explanations.
